@@ -10,6 +10,7 @@ daily dsa
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedang012/daily-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/vedang012/daily-dsa/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -19,4 +20,12 @@ daily dsa
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vedang012/daily-dsa/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedang012/daily-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedang012/daily-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
